@@ -1,5 +1,3 @@
-## Hola Soy Christian Castillo 👋
-
 # 👋 ¡Hola! Soy **Christian Castillo** 
 
 🌟 **Data Scientist** | 🎓 **Ingeniero Químico** | 📈 **Apasionado por el análisis de datos**
