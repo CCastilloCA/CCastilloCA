@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Sobre mí
-Soy un entusiasta de la ciencia de datos, con una sólida formación en ingeniería química. Actualmente, estoy finalizando un bootcamp en Data Science, donde he adquirido conocimientos clave en análisis de datos, machine learning, y desarrollo de modelos predictivos. Estoy en proceso de transición hacia una carrera en ciencia de datos para aplicar mis habilidades en la resolución de problemas del mundo real.
+Soy **Data Scientist** con una sólida formación en ingeniería química y experiencia en análisis de datos, machine learning y desarrollo de modelos predictivos. He completado un bootcamp en Data Science, donde he perfeccionado mis habilidades para aplicar técnicas avanzadas en la resolución de problemas reales y generar valor a partir de los datos.
 
 - 🌍 Me apasiona transformar datos en decisiones y generar valor a través del análisis.
 - 🎯 En constante aprendizaje y desarrollo de nuevas habilidades técnicas.
