@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy **Christian Castillo** 
 
-🌟 **Apasionado por la Ciencia de Datos** | 🎓 **Ingeniero Químico** | 📈 **Futuro Data Scientist** 
+🌟 **Data Scientist** | 🎓 **Ingeniero Químico** | 📈 **Apasionado por el análisis de datos**
 
 ---
 
